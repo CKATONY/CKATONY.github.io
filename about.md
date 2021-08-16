@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have been doing Calligraphy for a decade! 
+And I love exploring the world! 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Passionate data player and food lover 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jwang252@ncsu.edu]
