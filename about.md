@@ -11,7 +11,7 @@ School attended
 I have been doing Calligraphy for a decade!  
 And I love exploring the world!  
 Here is a pictue of the sunset I got from the great Salt Lake in Utah.  
-![Nice Sunset](https://user-images.githubusercontent.com/89038323/130282882-01f6e04b-911e-4e84-b149-a983372e8179.jpg)
+![Nice Sunset](https://user-images.githubusercontent.com/89038323/130282882-01f6e04b-911e-4e84-b149-a983372e8179.jpg | width=100)
 
 
 
