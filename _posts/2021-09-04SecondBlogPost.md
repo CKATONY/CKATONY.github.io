@@ -1,4 +1,7 @@
-Programming Background
+---
+layout: post
+title: ST558 Second Blog Post 
+---
 ================
 Jiatao Wang
 9/3/2021
