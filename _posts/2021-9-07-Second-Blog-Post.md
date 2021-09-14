@@ -28,3 +28,4 @@ plot(iris3)
 ```
 
 ![](C:/Users/CKA/Documents/CKA/st558/_posts/2021-9-07-Second-Blog-Post_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![unnamed-chunk-2-1](https://user-images.githubusercontent.com/89038323/133300037-c8c524e2-af4f-4676-a16f-1ae66e9f26f1.png)
