@@ -15,14 +15,14 @@ The data set that is used in this project can be accessed [here](https://archive
 Some Exploratory data analysis and supervised statistical learning methods are applied to the data set.  
 
 ## Access 
-The link for the usual repository is [here](https://github.com/ywzhou33/ST558-Project-2)  
-The link for the repo itself is here  
+The link for the usual repository is [here](https://github.com/CKATONY/ST558-Project-2)  
+The link for the github page repo  is [here](https://ckatony.github.io/ST558-Project-2/)  
 
 
 
 ## What would you do differently?  
 
-I noticed that the even after taking the square root of test mean square error, it is still a very large number. This result indicates that the model fitting does not do so well. If more time is given, I will try to do model selection using all the predictors(in this project, we fit the model by selected predictors for the convenience of computation)  (some variables like LDA and weekday can be added to balance out the variance). Sd for the exploratory data analysis, there is definitely a lot to do, we could do some principal component analysis. And there is a time variable in the data set. It will be interesting to conduct some time series analysis/multivariate analysis to see the if there is a trend or not./stationary or not (Another way to forecasting the shares)
+I noticed that the even after taking the square root of test mean square error, it is still a very large number. This result indicates that the model fitting does not do so well. If more time is given, I will try to do model selection using all the predictors(in this project, we fit the model by selected predictors for the convenience of computation)  (some variables like LDA and weekday can be added to balance out the variance). For the exploratory data analysis, there is definitely a lot to do, we could do some principal component analysis. And there is a time variable in the data set. It will be interesting to conduct some time series analysis/multivariate analysis to see the if there is a trend or not./stationary or not (Another way to forecasting the shares)
 
 
 ## what was the most difficult part for you?
