@@ -15,7 +15,7 @@ The data set that is used in this project can be accessed [here](https://archive
 Some Exploratory data analysis and supervised statistical learning methods are applied to the data set.  
 
 ## Access 
-The link for the usual repository is [here](https://github.com/CKATONY/ST558-Project-2)  
+The link for the usual repository on github is [here](https://github.com/CKATONY/ST558-Project-2)  
 The link for the github page repo  is [here](https://ckatony.github.io/ST558-Project-2/)  
 
 
