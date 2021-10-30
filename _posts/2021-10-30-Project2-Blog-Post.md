@@ -14,9 +14,10 @@ methods are applied to the data set.
 
 ## Access
 
-The link for the usual repository is
-[here](https://github.com/ywzhou33/ST558-Project-2)  
-The link for the repo itself is here
+The link for the usual repository on github is
+[here](https://github.com/CKATONY/ST558-Project-2)  
+The link for the github page repo is
+[here](https://ckatony.github.io/ST558-Project-2/)
 
 ## What would you do differently?
 
@@ -26,8 +27,8 @@ model fitting does not do so well. If more time is given, I will try to
 do model selection using all the predictors(in this project, we fit the
 model by selected predictors for the convenience of computation) (some
 variables like LDA and weekday can be added to balance out the
-variance). Sd for the exploratory data analysis, there is definitely a
-lot to do, we could do some principal component analysis. And there is a
+variance). For the exploratory data analysis, there is definitely a lot
+to do, we could do some principal component analysis. And there is a
 time variable in the data set. It will be interesting to conduct some
 time series analysis/multivariate analysis to see the if there is a
 trend or not./stationary or not (Another way to forecasting the shares)
