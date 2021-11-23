@@ -5,7 +5,7 @@ date: "11/23/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -26,7 +26,7 @@ Thank you ST558! Thank you Professor Justin!
 ```{r , include=TRUE, eval=FALSE}
 rmarkdown::render("/Users/CKA/Documents/CKA/reflection/_Rmd/2021-11-23-Reflection-Blog-Post.Rmd",
               output_format = "github_document", 
-              output_dir = "/Users/CKA/Documents/CKA/reflection/_posts",
+              output_dir = "/Users/CKA/Documents/CKA/reflection",
               keep_html = FALSE
                 
               )
